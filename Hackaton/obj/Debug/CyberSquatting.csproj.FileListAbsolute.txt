@@ -1,0 +1,20 @@
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\CyberSquatting.exe.config
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\CyberSquatting.exe
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\CyberSquatting.pdb
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\Bot.exe
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\Bot.pdb
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\Bot.exe.config
+D:\documents\users\pezman\Hackaton\Hackaton\obj\Debug\CyberSquatting.csprojResolveAssemblyReference.cache
+D:\documents\users\pezman\Hackaton\Hackaton\obj\Debug\CyberSquatting.exe
+D:\documents\users\pezman\Hackaton\Hackaton\obj\Debug\CyberSquatting.pdb
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\bin\Debug\CyberSquatting.exe.config
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\bin\Debug\CyberSquatting.exe
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\bin\Debug\CyberSquatting.pdb
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\bin\Debug\Bot.exe
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\bin\Debug\Bot.pdb
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\bin\Debug\Bot.exe.config
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\obj\Debug\CyberSquatting.csprojAssemblyReference.cache
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\obj\Debug\CyberSquatting.csproj.CoreCompileInputs.cache
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\obj\Debug\CyberSquatting.csproj.CopyComplete
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\obj\Debug\CyberSquatting.exe
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Hackaton\obj\Debug\CyberSquatting.pdb

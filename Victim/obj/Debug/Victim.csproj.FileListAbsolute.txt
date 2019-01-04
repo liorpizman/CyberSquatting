@@ -1,0 +1,13 @@
+D:\documents\users\pezman\Hackaton\Victim\bin\Debug\Victim.exe.config
+D:\documents\users\pezman\Hackaton\Victim\bin\Debug\Victim.exe
+D:\documents\users\pezman\Hackaton\Victim\bin\Debug\Victim.pdb
+D:\documents\users\pezman\Hackaton\Victim\obj\Debug\Victim.exe
+D:\documents\users\pezman\Hackaton\Victim\obj\Debug\Victim.pdb
+D:\documents\users\pezman\Hackaton\Victim\obj\Debug\Victim.csprojResolveAssemblyReference.cache
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Victim\bin\Debug\Victim.exe.config
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Victim\bin\Debug\Victim.exe
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Victim\bin\Debug\Victim.pdb
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Victim\obj\Debug\Victim.csprojAssemblyReference.cache
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Victim\obj\Debug\Victim.csproj.CoreCompileInputs.cache
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Victim\obj\Debug\Victim.exe
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Victim\obj\Debug\Victim.pdb

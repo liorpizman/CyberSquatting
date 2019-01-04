@@ -1,0 +1,13 @@
+D:\documents\users\pezman\Hackaton\Bot\bin\Debug\Bot.exe.config
+D:\documents\users\pezman\Hackaton\Bot\bin\Debug\Bot.exe
+D:\documents\users\pezman\Hackaton\Bot\bin\Debug\Bot.pdb
+D:\documents\users\pezman\Hackaton\Bot\obj\Debug\Bot.csprojResolveAssemblyReference.cache
+D:\documents\users\pezman\Hackaton\Bot\obj\Debug\Bot.exe
+D:\documents\users\pezman\Hackaton\Bot\obj\Debug\Bot.pdb
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Bot\bin\Debug\Bot.exe.config
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Bot\bin\Debug\Bot.exe
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Bot\bin\Debug\Bot.pdb
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Bot\obj\Debug\Bot.csprojAssemblyReference.cache
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Bot\obj\Debug\Bot.csproj.CoreCompileInputs.cache
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Bot\obj\Debug\Bot.exe
+C:\Users\Lior\Desktop\current semester\data communication\hackaton\hackatonSol\Hackaton\Bot\obj\Debug\Bot.pdb

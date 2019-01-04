@@ -1,0 +1,9 @@
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\Hackaton.exe.config
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\Hackaton.exe
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\Hackaton.pdb
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\Bot.exe
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\Bot.pdb
+D:\documents\users\pezman\Hackaton\Hackaton\bin\Debug\Bot.exe.config
+D:\documents\users\pezman\Hackaton\Hackaton\obj\Debug\CCserver.csprojResolveAssemblyReference.cache
+D:\documents\users\pezman\Hackaton\Hackaton\obj\Debug\Hackaton.exe
+D:\documents\users\pezman\Hackaton\Hackaton\obj\Debug\Hackaton.pdb
